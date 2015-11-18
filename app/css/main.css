@@ -1,0 +1,18 @@
+.label {
+  display: inline-block;
+  padding: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+tr.user-row td {
+  line-height: 2 !important;
+}
+
+.add-user-form {
+  padding-top: 8px;
+}
+
+.user-row .glyphicon:hover {
+  cursor: pointer;
+}
